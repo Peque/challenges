@@ -1,0 +1,7 @@
+pycache/
+.cache/
+.tox/
+.coverage
+.coverage\.*
+*.pyc
+*.swp
